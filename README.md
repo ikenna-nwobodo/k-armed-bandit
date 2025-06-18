@@ -25,9 +25,9 @@ Ensure the following libraries are installed:
 ### How to Run
 **Clone the repository:**
 
-`git clone https://github.com/your-username/k-armed-bandit-assignment.git`
+`git clone https://github.com/ikenna-nwobodo/k-armed-bandit.git`
 
-`cd k-armed-bandit`
+`cd bandit_problem`
 
 **Open the notebook:**
 
